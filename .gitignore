@@ -1,0 +1,9 @@
+# simulation output file
+sim.vvp
+
+# waveform files
+*.vcd
+
+# extra output files
+*.out
+*.exe
